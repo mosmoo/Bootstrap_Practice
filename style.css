@@ -1,0 +1,21 @@
+body{
+    background-color:#befff8;
+}
+h1{
+    color:#bec5ff;
+    text-align:center;
+    margin-bottom:5%;
+    margin-top:10%;
+    font-family:Impact;
+    text-transform:uppercase;
+    letter-spacing: 0.3rem;
+    word-spacing:0.5em;
+    font-size: 60px;
+    text-shadow: 2px 1px #ffbec5;
+}
+.card-text{
+    color:#ffbec5;
+    font-weight: 500;
+    text-shadow:1px 1px #bec5ff;
+    font-size:17px;
+}
